@@ -20,7 +20,7 @@ This is the first paragraph of the post. Lorem ipsum dolor sit amet, consectetur
 
 **This is the second paragraph of this post.** Nunc placerat suscipit ante, _eleifend finibus turpis pellentesque ac_. Suspendisse quam arcu, maximus varius bibendum at, gravida sed ante. Ut non interdum elit, sed fringilla orci. Phasellus at venenatis felis. Morbi vel sapien eget est tristique egestas ac at neque. In sollicitudin viverra porta. Morbi vitae nisl non arcu eleifend sollicitudin.
 
-## This is h2 heading
+## This is h2 heading 2
 
 Nunc enim nisl, ornare in sapien vel, auctor euismod enim. Sed consequat tincidunt consequat. Integer eu pulvinar velit. Nullam eget feugiat nisi, quis eleifend odio. Donec dolor orci, scelerisque ac vehicula eget, malesuada ut quam. Pellentesque accumsan ante urna, sit amet molestie arcu condimentum at. Aenean vitae lorem nec est consequat lacinia. Nunc sem ex, eleifend ac lobortis et, feugiat nec eros. Aliquam maximus nibh quis eleifend viverra. Curabitur at mattis erat, ac imperdiet purus. Donec metus arcu, euismod vel sem non, euismod laoreet risus. Integer eros dui, ultricies lobortis nisl at, fringilla lacinia tortor. Cras maximus magna tortor, in commodo nunc ultrices gravida.
 
